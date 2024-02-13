@@ -1,6 +1,6 @@
 ### Oi, eu sou a Vic! 
 <p align="center">
-	<img width="100%" src="https://gist.github.com/assets/138829880/7df9d317-76c5-4715-81a9-61cf8280de3a" />
+	<img width="100%" src="https://gist.github.com/assets/138829880/7df9d317-76c5-4715-81a9-61cf8280de3a.png" />
 </p>
 
 📈 Analista Jr. 
